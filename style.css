@@ -1,0 +1,217 @@
+#divmain{ 
+    display: flex;
+    justify-content: space-evenly;
+    background-color:grey;
+}
+.span{ 
+    margin-top: 30px;
+}
+#divmain>input{
+    width: 900px;
+    height: 20px;
+    margin-top:20px;
+    margin-left: 20px;
+}
+#divmain>span{
+    margin-bottom: 30px;
+}
+#divmain>img{
+    width: 50px;
+
+}   
+#subdiv1{
+    text-decoration:none;
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+}
+#subdiv1>h3{
+    color: black;
+}
+#subdiv3>div>img{
+      justify-content: space-evenly;
+      margin:20px;
+      height:100px;
+      width: 150px;
+      border-radius: 3px;
+}
+#subdiv3>div>h3{
+    text-align: center;
+    margin-top: -10px;
+}
+#subdiv2>img{
+      justify-content: space-evenly;
+      margin: 20px;
+}
+#maindiv2>subdiv2>img{
+    justify-content: space-evenly;
+}
+#subdiv4>div>img{
+    justify-content: space-evenly;
+    margin: 20px;
+    height: 100px;
+    width: 150px;
+    border-radius: 3px;
+}
+#subdiv4>div>h3{
+    text-align: center;
+    margin-top: -10px;
+}
+#subdiv5>div>img{
+        justify-content: space-evenly;
+        margin: 20px;
+        height: 100px;
+        width: 150px;
+        border-radius: 3px;
+}
+#subdiv5>div>h3{
+    text-align: center;
+    margin-top: -10px;
+}
+#subdiv6>div>img{
+    justify-content: space-evenly;
+    margin: 20px;
+    height: 100px;
+    width: 150px;
+    border-radius: 3px;
+} 
+#subdiv6>div>h3{
+    text-align: center;
+    margin-top: -10px;
+}
+    
+#subdiv7>div>img{
+    justify-content: space-evenly;
+    margin: 20px;
+    height: 100px;
+    width: 150px;
+    border-radius:3px;
+}
+#subdiv7>div>h3{
+    text-align: center;
+    margin-top: -10px;
+}
+#subdiv3{
+    display: flex;
+}
+#subdiv4{
+    display: flex;
+}
+#subdiv5{
+    display: flex;
+}
+#subdiv6{
+    display: flex;
+}
+#subdiv7{
+    display: flex;
+}
+#subdiv8>div>img{
+    justify-content: space-evenly;
+    margin: 20px;
+    height: 350px;
+    width: 350px;
+    border-radius: 3px;
+}
+#subdiv8>div>h2{
+    text-align: center;
+    margin-top: -10px;
+}
+#subdiv8{
+    display: flex;
+}
+#subdiv10>img{
+       border-radius: 150px; 
+       justify-content: space-evenly;
+       height: 200px;
+       width: 200px;
+       gap: 100px;
+
+}
+#subdiv17>div>img{
+    justify-content: space-evenly;
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+    border-radius: 3px;
+
+}
+#subdiv17{
+    margin-top: 40px;
+}
+#subdiv17>div>h2{
+    text-align: center;
+    margin-top: 10px;
+
+}
+#subdiv17>div>h4{
+    text-align: center;
+    margin-top: -10px ;
+}
+#subdiv17{
+    display: flex;
+}
+#subdiv16>div>h3{
+    text-align: center;
+}
+#subdiv15>div>h2{
+    text-align: centre;
+    margin-left: 400px;
+}
+#subdiv15>div>p{
+    text-align: centre;
+    margin-left:250px;
+}
+#subdiv15>div>button{
+    text-align: centre;
+    margin-left:250px;
+    background-color: orangered;
+    border-radius: 50px;
+}
+#subdiv17>div>button{ 
+    text-align: centre;
+    margin-top: -10px;
+    margin-left: 60px;
+    border: 0px;
+    background-color: aliceblue;
+}
+#subdiv3>div>button{ 
+    text-align: centre;
+    margin-top: -10px;
+    margin-left: 20px;
+    border: 0px;
+    background-color: aliceblue;
+
+}
+#subdiv4>div>button{ 
+    text-align: centre;
+    margin-top: -10px;
+    margin-left: 20px;
+    border: 0px;
+    background-color: aliceblue;
+
+}
+#subdiv5>div>button{ 
+    text-align: centre;
+    margin-top: -10px;
+    margin-left: 20px;
+    border: 0px;
+    background-color: aliceblue;
+
+}
+#subdiv6>div>button{ 
+    text-align: centre;
+    margin-top: -10px;
+    margin-left: 20px;
+    border: 0px;
+    background-color: aliceblue;
+
+}
+#subdiv7>div>button{ 
+    text-align: centre;
+    margin-top: -10px;
+    margin-left: 20px;
+    border: 0px;
+    background-color: aliceblue;
+
+}
